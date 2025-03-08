@@ -1,7 +1,0 @@
-we will create one route/ one page for all the todo in the todos list. 
-
-by passing the id of the todo to the dynamic page. 
-
-file updated -> index.jsx and [id].jsx 
-
-learn -> dynamic route to a new page where we can edit any our todo. 
